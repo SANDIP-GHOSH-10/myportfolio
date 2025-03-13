@@ -34,7 +34,7 @@ const AboutPage = () => {
             <Grid item xs={12} md={6}>
               <Paper sx={{ p: 4, bgcolor: "rgba(255, 255, 255, 0.1)", borderRadius: 2 }}>
                 <Typography variant="h5" fontWeight="bold" gutterBottom>
-                  Hi, I'm Sandip Ghosh 👋
+                  Hi, I am Sandip Ghosh 
                 </Typography>
                 <Typography variant="body1" sx={{ opacity: 0.8, mb: 3 }}>
                   I am a passionate software developer with experience in web technologies. 
